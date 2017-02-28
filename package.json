@@ -1,6 +1,6 @@
 {
   "name": "@drivetribe/redux-persist-migrate",
-  "version": "4.0.1",
+  "version": "4.0.2",
   "description": "migrate your redux state",
   "main": "lib/index.js",
   "scripts": {
