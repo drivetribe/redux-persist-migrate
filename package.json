@@ -1,5 +1,5 @@
 {
-  "name": "redux-persist-migrate",
+  "name": "@drivetribe/redux-persist-migrate",
   "version": "4.0.1",
   "description": "migrate your redux state",
   "main": "lib/index.js",
